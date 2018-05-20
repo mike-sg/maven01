@@ -1,4 +1,4 @@
-package clinic.programming.training;
+package com.mike;
 
 public class Application {
     
